@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# References
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+- [SPDX License Identifier](https://docs.soliditylang.org/en/v0.6.8/layout-of-source-files.html)
