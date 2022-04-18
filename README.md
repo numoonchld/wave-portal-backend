@@ -5,7 +5,7 @@
 - `npx hardhat compile`: to compile your contracts in your Hardhat project 
 - `npx hardhat test`: run all the tests in the current project 
 - `npx hardhat run scripts/run.js`: run script in HRE
-
+- `npx hardhat node`: runs a node to keep a blockchain alive as opposed to the script HRE building, running script in, and destroying the blockchain
 
 # References
 
